@@ -31,8 +31,8 @@ export default new Router({
           component: MyChart
         },
         {
-          path: '/main',
-          component: Main
+          path: '/chart',
+          component: MyChart
         },
         {
           path: '/productList',

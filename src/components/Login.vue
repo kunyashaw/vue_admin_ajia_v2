@@ -4,7 +4,7 @@
             <div class="animate form login_form">
                 <section class="login_content">
                     <form>
-                        <h1>管理员登录</h1>
+                        <h1>登录</h1>
                         <div>
                             <input type="text" v-model="userName" class="form-control" placeholder="管理员登录名" required />
                         </div>
